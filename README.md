@@ -38,6 +38,9 @@ This project applies **machine learning** to predict whether the grid is in a *s
 - Correlation analysis revealed strong relationships between `p` and `tau` values
 - Added **engineered features** to capture grid dynamics better
 
+### Data Distribution:
+![Data_Distribution](images/distribution.png)
+
 ---
 
 ## 🧩 Model Development
@@ -57,6 +60,7 @@ This project applies **machine learning** to predict whether the grid is in a *s
 
 ### Confusion Matrix:
 
+![Confusion Matrix](images/matrix.png)
 
 The model correctly identifies **95% of unstable conditions**, making it reliable for early fault prediction.
 
@@ -89,6 +93,9 @@ You can deploy this model in a:
 - Feature importance plot
 - ROC-AUC curve
 - Precision-Recall curve
+  
+### ROC-AUC Curve:
+![ROC Curve](images/curve.png)
 
 ---
 
