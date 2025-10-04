@@ -120,29 +120,6 @@ You can deploy this model in a:
 
 ---
 
-## 📁 Project Structure
-
-grid-stability-prediction/
-│
-├── data/
-│ ├── grid_data.csv
-│ ├── new_data.csv
-│
-├── notebooks/
-│ ├── EDA.ipynb
-│ ├── Model_Training.ipynb
-│
-├── models/
-│ ├── grid_stability_model.pkl
-│
-├── app/
-│ ├── streamlit_app.py (for deployment)
-│
-├── README.md
-└── requirements.txt
-
----
-
 ## 🔮 Future Improvements
 
 - Integrate live streaming data (IoT/sensor simulation)
