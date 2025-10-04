@@ -131,9 +131,9 @@ You can deploy this model in a:
 ## 👨‍💻 Author
 
 **Bhushan Yashwant Patil**  
-📧 [Your Email]  
-💼 [LinkedIn Profile]  
-📂 [GitHub Portfolio]
+📧 [patilbhushan1086@gmail.com]  
+💼 [[LinkedIn Profile: (https://www.linkedin.com/in/bhushan-patil-381601293/)]  
+📂 [GitHub Portfolio: (https://github.com/BhushanYP/Grids_Stability_ML_Model/)]
 
 ---
 
