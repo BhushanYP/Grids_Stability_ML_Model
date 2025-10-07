@@ -133,7 +133,7 @@ You can deploy this model in a:
 **Bhushan Yashwant Patil**  
 📧  Email: patilbhushan1086@gmail.com  
 💼  LinkedIn Profile: https://www.linkedin.com/in/bhushan-patil-381601293/  
-📂  GitHub Portfolio: https://github.com/BhushanYP/Grids_Stability_ML_Model/  
+📂  GitHub Portfolio: https://bhushanyp.github.io/portfolio/
 
 ---
 
